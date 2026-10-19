@@ -1,0 +1,25 @@
+{
+  "name": "demo-laundry-kilat",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Demo landing laundry siap jual — React + Vite + Tailwind v4 + daisyUI. By MansxDev.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@fontsource-variable/plus-jakarta-sans": "^5.2.5",
+    "@phosphor-icons/react": "^2.1.7",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.12",
+    "@vitejs/plugin-react": "^6.0.3",
+    "daisyui": "^5.1.6",
+    "tailwindcss": "^4.1.12",
+    "vite": "^8.0.0"
+  }
+}
